@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @mb7079
-- 👀 I’m interested in Software Development and Logical problems
-- Love to solve coding problems any day.
+-Hi, **I’m Manikanta Budati**..😎
+-I’m interested in Software Development and Logical problem solving..❤�
+- Love to **solve coding problems** any day..😍😍
+- Aspiring to become a Software Engineer ..✔✔
+- Learning **SAS Programming** that is used in Data Visualization and Analysis..✌
 - 
 
 <!---
